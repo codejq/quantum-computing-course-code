@@ -5,8 +5,8 @@
 <h1 align="center">Quantum Computing Course: Code</h1>
 
 <p align="center">
-  Code for the <b>Sommerfeld International University</b> quantum computing course on YouTube.<br>
-  <a href="https://www.youtube.com/watch?v=3bVYE50kack&list=PLHDG68xKse88">▶ Watch the course on YouTube</a> · <a href="https://s-i-u.com">s-i-u.com</a>
+  Code for <b>Quantum Computing Made Simple</b>, the <b>Sommerfeld International University</b> course on YouTube.<br>
+  <a href="https://www.youtube.com/playlist?list=PLHDG68xKse88">▶ Watch the full playlist on YouTube</a> · <a href="https://s-i-u.com">s-i-u.com</a>
 </p>
 
 ---
