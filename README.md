@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Sommerfeld International University logo" width="320">
+  <img src="assets/logo.png" alt="Sommerfeld International Academy logo" width="320">
 </p>
 
 <h1 align="center">Quantum Computing Course: Code</h1>
 
 <p align="center">
-  Code for <b>Quantum Computing Made Simple</b>, the <b>Sommerfeld International University</b> course on YouTube.<br>
+  Code for <b>Quantum Computing Made Simple</b>, the <b>Sommerfeld International Academy</b> course on YouTube.<br>
   <a href="https://www.youtube.com/playlist?list=PLHDG68xKse88">▶ Watch the full playlist on YouTube</a> · <a href="https://s-i-u.com">s-i-u.com</a>
 </p>
 
@@ -82,6 +82,6 @@ Found a bug or a broken example? Please open an issue or a pull request.
 ---
 
 <p align="center">
-  <b>Sommerfeld International University</b> · <i>Scientia · Innovatio · Humanitas</i><br>
+  <b>Sommerfeld International Academy</b> · <i>Scientia · Innovatio · Humanitas</i><br>
   Made by Quantum Billing · <a href="https://s-i-u.com">s-i-u.com</a>
 </p>
